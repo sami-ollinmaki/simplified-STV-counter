@@ -1,0 +1,10 @@
+A;C;D;B;E
+E;D;A;B;C
+E;D;C;B;A
+D;E;B;A;C
+B;C;D;E;A
+C;A;B;E;D
+A;C;B;E;D
+C;D;A;B;E
+B;E;D;C;A
+E;B;A;D;C
